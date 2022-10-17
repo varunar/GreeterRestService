@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreeterRestService", "GreeterRestService\GreeterRestService.csproj", "{3304A7F0-86DB-4085-8ED0-58757BC25B09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3304A7F0-86DB-4085-8ED0-58757BC25B09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3304A7F0-86DB-4085-8ED0-58757BC25B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3304A7F0-86DB-4085-8ED0-58757BC25B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3304A7F0-86DB-4085-8ED0-58757BC25B09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB3D78BB-F144-4D82-B659-135DF3E0DBE1}
+	EndGlobalSection
+EndGlobal
